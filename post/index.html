@@ -51,7 +51,7 @@
 <body class="bilberry-hugo-theme">
 
     
-    <nav>
+    <nav class="permanentTopNav sticky">
 
     <div class="container">
         <ul class="topnav">
@@ -69,18 +69,27 @@
                 
             
                 
+                    <li><a href="/tags/tracks/" target="_self">Tracks</a></li>
+                
+            
+                
                     <li><a href="https://p3n.pensplace.co.uk/about/">About</a></li>
                 
             
         </ul>
 
         
+            <div id="search-box" class="search">
+                <i class="fas fa-search"></i>
+                <input id="search" type="text" placeholder="Search ...">
+            </div>
+        
     </div>
 </nav>
 
 
     
-    <header>
+    <header class="sticky">
 
         <div class="container">
             <div class="logo">
@@ -89,7 +98,7 @@
                         <img src="/P3N.png" alt="">
                     
 
-                    <span class="overlay"><i class="fa fa-home"></i></span>
+                    <span class="overlay"><i class="fa fa-record-vinyl"></i></span>
                 </a>
             </div>
             <div class="titles">
@@ -107,7 +116,7 @@
             
 
             
-                <div class="toggler">
+                <div class="toggler permanentTopNav">
             
                     <i class="fa fa-bars" aria-hidden="true"></i>
                 </div>
@@ -144,19 +153,23 @@
                     </li>
                 
                     <li>
+                        <a href="https://p3n.pensplace.co.uk/audio/p3n-bigroomadventures-1999/">Big Room Adventures 1999</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://p3n.pensplace.co.uk/audio/p3n-bigroomadventures-90s-new-years-eve-party/">Big Room Adventures 90s New Years Eve Party</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://p3n.pensplace.co.uk/audio/p3n-track-autumnlight/">Autumn Light</a>
+                    </li>
+                
+                    <li>
                         <a href="https://p3n.pensplace.co.uk/audio/p3n-bigroomadventures-vol-v/">Big Room Adventures Vol V</a>
                     </li>
                 
                     <li>
                         <a href="https://p3n.pensplace.co.uk/audio/p3n-bigroomadventures-vol-iv/">Big Room Adventures Vol IV</a>
-                    </li>
-                
-                    <li>
-                        <a href="https://p3n.pensplace.co.uk/audio/p3n-darkknights-vol-iii/">Dark Knights Vol III</a>
-                    </li>
-                
-                    <li>
-                        <a href="https://p3n.pensplace.co.uk/audio/p3n-bigroomadventures-vol-iii/">Big Room Adventures Vol III</a>
                     </li>
                 
             </ul>
@@ -169,38 +182,38 @@
             <ul>
                 
                 <li>
-                    <a href="/categories/big-room-adventures">Big room adventures
-                        (6)</a>
-                </li>
-                
-                <li>
                     <a href="/categories/music">Music
-                        (6)</a>
+                        (12)</a>
                 </li>
                 
                 <li>
-                    <a href="/categories/techhouse">Techhouse
+                    <a href="/categories/big-room-adventures">Big room adventures
+                        (7)</a>
+                </li>
+                
+                <li>
+                    <a href="/categories/darkknights">Darkknights
+                        (4)</a>
+                </li>
+                
+                <li>
+                    <a href="/categories/melodic-house-and-techno">Melodic house and techno
+                        (4)</a>
+                </li>
+                
+                <li>
+                    <a href="/categories/trance">Trance
+                        (3)</a>
+                </li>
+                
+                <li>
+                    <a href="/categories/90s">90s
                         (2)</a>
                 </li>
                 
                 <li>
-                    <a href="/categories/house">House
-                        (1)</a>
-                </li>
-                
-                <li>
-                    <a href="/categories/nu-disco">Nu disco
-                        (1)</a>
-                </li>
-                
-                <li>
-                    <a href="/categories/progressive-house">Progressive house
-                        (1)</a>
-                </li>
-                
-                <li>
-                    <a href="/categories/techno">Techno
-                        (1)</a>
+                    <a href="/categories/classix">Classix
+                        (2)</a>
                 </li>
                 
             </ul>
@@ -237,10 +250,7 @@
             -
             <a href="https://p3n.pensplace.co.uk/post/index.xml">RSS</a>
         </div>
-        <div class="author">
-            <a href="https://github.com/Lednerb/bilberry-hugo-theme"
-                target="_blank">Bilberry Hugo Theme</a>
-        </div>
+
     </div>
 </div>
 
@@ -255,6 +265,18 @@
     
     
     
+
+    
+    <div id="activate-algolia-search" class="hidden">
+  <input type="hidden" id="algolia-search-appId" value="J5HAQCZRT0">
+  <input type="hidden" id="algolia-search-apiKey" value="b9e558c951a41c03d68a6b109ef99272">
+  <input type="hidden" id="algolia-search-indexName" value="prod_p3n">
+  <input type="hidden" id="algolia-search-noSearchResults" value="Nothing found.">
+
+  
+  <input type="hidden" id="algolia-search-currentLanguageOnly">
+  
+</div>
 
     
 </body>
