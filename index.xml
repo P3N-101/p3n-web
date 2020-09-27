@@ -28,7 +28,7 @@
     </item>
     
     <item>
-      <title>P3N - Big Room Adventures Vol VI</title>
+      <title>Big Room Adventures Vol VI</title>
       <link>https://p3n.pensplace.co.uk/audio/p3n-bigroomadventures-vol-vi/</link>
       <pubDate>Fri, 01 May 2020 16:12:47 +0100</pubDate>
       
@@ -52,15 +52,6 @@
       
       <guid>https://p3n.pensplace.co.uk/audio/p3n-bigroomadventures-vol-iv/</guid>
       <description>    artist track     ss      </description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://p3n.pensplace.co.uk/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://p3n.pensplace.co.uk/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>

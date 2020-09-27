@@ -18,7 +18,22 @@
   </url>
   
   <url>
+    <loc>https://p3n.pensplace.co.uk/page/bigroom-adventures/</loc>
+    <lastmod>2020-09-01T13:17:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://p3n.pensplace.co.uk/page/</loc>
+    <lastmod>2020-09-01T13:17:56+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://p3n.pensplace.co.uk/audio/</loc>
+    <lastmod>2020-06-01T16:12:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://p3n.pensplace.co.uk/categories/big-room-adventures/</loc>
     <lastmod>2020-06-01T16:12:47+01:00</lastmod>
   </url>
   
@@ -29,11 +44,6 @@
   
   <url>
     <loc>https://p3n.pensplace.co.uk/tags/bigroom-adventures/</loc>
-    <lastmod>2020-06-01T16:12:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://p3n.pensplace.co.uk/categories/bigroom-adventures/</loc>
     <lastmod>2020-06-01T16:12:47+01:00</lastmod>
   </url>
   
@@ -73,6 +83,11 @@
   </url>
   
   <url>
+    <loc>https://p3n.pensplace.co.uk/categories/techhouse/</loc>
+    <lastmod>2020-05-01T16:12:47+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://p3n.pensplace.co.uk/audio/p3n-bigroomadventures-vol-v/</loc>
     <lastmod>2019-09-01T16:12:47+01:00</lastmod>
   </url>
@@ -88,52 +103,22 @@
   </url>
   
   <url>
-    <loc>https://p3n.pensplace.co.uk/author/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://p3n.pensplace.co.uk/tags/techno/</loc>
+    <lastmod>2019-08-01T16:12:47+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://p3n.pensplace.co.uk/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://p3n.pensplace.co.uk/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://p3n.pensplace.co.uk/author/hugo-authors/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://p3n.pensplace.co.uk/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://p3n.pensplace.co.uk/post/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://p3n.pensplace.co.uk/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://p3n.pensplace.co.uk/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://p3n.pensplace.co.uk/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://p3n.pensplace.co.uk/categories/techno/</loc>
+    <lastmod>2019-08-01T16:12:47+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://p3n.pensplace.co.uk/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://p3n.pensplace.co.uk/author/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,17 +133,16 @@
   </url>
   
   <url>
-    <loc>https://p3n.pensplace.co.uk/tags/techno/</loc>
-    <lastmod>2018-06-01T16:12:47+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://p3n.pensplace.co.uk/tags/trance/</loc>
     <lastmod>2018-06-01T16:12:47+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://p3n.pensplace.co.uk/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://p3n.pensplace.co.uk/post/</loc>
   </url>
   
 </urlset>
