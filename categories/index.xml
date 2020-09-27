@@ -5,7 +5,7 @@
     <link>https://p3n.pensplace.co.uk/categories/</link>
     <description>Recent content in Categories on P3N</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 01 Jun 2020 16:12:47 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2020 16:12:47 +0100</lastBuildDate>
     
 	<atom:link href="https://p3n.pensplace.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +13,7 @@
     <item>
       <title>Big Room Adventures</title>
       <link>https://p3n.pensplace.co.uk/categories/big-room-adventures/</link>
-      <pubDate>Mon, 01 Jun 2020 16:12:47 +0100</pubDate>
+      <pubDate>Sat, 04 Jul 2020 16:12:47 +0100</pubDate>
       
       <guid>https://p3n.pensplace.co.uk/categories/big-room-adventures/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>Music</title>
       <link>https://p3n.pensplace.co.uk/categories/music/</link>
-      <pubDate>Mon, 01 Jun 2020 16:12:47 +0100</pubDate>
+      <pubDate>Sat, 04 Jul 2020 16:12:47 +0100</pubDate>
       
       <guid>https://p3n.pensplace.co.uk/categories/music/</guid>
       <description></description>
@@ -31,9 +31,27 @@
     <item>
       <title>Nu-Disco</title>
       <link>https://p3n.pensplace.co.uk/categories/nu-disco/</link>
-      <pubDate>Mon, 01 Jun 2020 16:12:47 +0100</pubDate>
+      <pubDate>Sat, 04 Jul 2020 16:12:47 +0100</pubDate>
       
       <guid>https://p3n.pensplace.co.uk/categories/nu-disco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Afro House</title>
+      <link>https://p3n.pensplace.co.uk/categories/afro-house/</link>
+      <pubDate>Wed, 20 May 2020 16:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/categories/afro-house/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DarkKnights</title>
+      <link>https://p3n.pensplace.co.uk/categories/darkknights/</link>
+      <pubDate>Wed, 20 May 2020 16:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/categories/darkknights/</guid>
       <description></description>
     </item>
     
@@ -97,15 +115,6 @@
       <pubDate>Thu, 01 Aug 2019 16:12:47 +0100</pubDate>
       
       <guid>https://p3n.pensplace.co.uk/categories/house/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DarkKnights</title>
-      <link>https://p3n.pensplace.co.uk/categories/darkknights/</link>
-      <pubDate>Mon, 01 Jul 2019 16:12:47 +0100</pubDate>
-      
-      <guid>https://p3n.pensplace.co.uk/categories/darkknights/</guid>
       <description></description>
     </item>
     
