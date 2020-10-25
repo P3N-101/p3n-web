@@ -5,24 +5,15 @@
     <link>https://p3n.pensplace.co.uk/categories/</link>
     <description>Recent content in Categories on P3N</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 25 Sep 2020 13:01:14 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2020 15:12:47 +0100</lastBuildDate>
     
 	<atom:link href="https://p3n.pensplace.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Music</title>
-      <link>https://p3n.pensplace.co.uk/categories/music/</link>
-      <pubDate>Fri, 25 Sep 2020 13:01:14 +0100</pubDate>
-      
-      <guid>https://p3n.pensplace.co.uk/categories/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DarkKnights</title>
       <link>https://p3n.pensplace.co.uk/categories/darkknights/</link>
-      <pubDate>Sun, 06 Sep 2020 16:12:47 +0100</pubDate>
+      <pubDate>Sun, 25 Oct 2020 15:12:47 +0100</pubDate>
       
       <guid>https://p3n.pensplace.co.uk/categories/darkknights/</guid>
       <description></description>
@@ -31,16 +22,34 @@
     <item>
       <title>Melodic House and Techno</title>
       <link>https://p3n.pensplace.co.uk/categories/melodic-house-and-techno/</link>
-      <pubDate>Sun, 06 Sep 2020 16:12:47 +0100</pubDate>
+      <pubDate>Sun, 25 Oct 2020 15:12:47 +0100</pubDate>
       
       <guid>https://p3n.pensplace.co.uk/categories/melodic-house-and-techno/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Music</title>
+      <link>https://p3n.pensplace.co.uk/categories/music/</link>
+      <pubDate>Sun, 25 Oct 2020 15:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive House</title>
+      <link>https://p3n.pensplace.co.uk/categories/progressive-house/</link>
+      <pubDate>Sun, 25 Oct 2020 15:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/categories/progressive-house/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Big Room Adventures</title>
       <link>https://p3n.pensplace.co.uk/categories/big-room-adventures/</link>
-      <pubDate>Tue, 01 Sep 2020 16:12:47 +0100</pubDate>
+      <pubDate>Sun, 25 Oct 2020 14:12:47 +0100</pubDate>
       
       <guid>https://p3n.pensplace.co.uk/categories/big-room-adventures/</guid>
       <description></description>
@@ -49,7 +58,7 @@
     <item>
       <title>TechHouse</title>
       <link>https://p3n.pensplace.co.uk/categories/techhouse/</link>
-      <pubDate>Tue, 01 Sep 2020 16:12:47 +0100</pubDate>
+      <pubDate>Sun, 25 Oct 2020 14:12:47 +0100</pubDate>
       
       <guid>https://p3n.pensplace.co.uk/categories/techhouse/</guid>
       <description></description>
@@ -101,6 +110,15 @@
     </item>
     
     <item>
+      <title>Tracks</title>
+      <link>https://p3n.pensplace.co.uk/categories/tracks/</link>
+      <pubDate>Fri, 01 May 2020 22:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/categories/tracks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>90s</title>
       <link>https://p3n.pensplace.co.uk/categories/90s/</link>
       <pubDate>Tue, 17 Mar 2020 22:12:47 +0100</pubDate>
@@ -115,24 +133,6 @@
       <pubDate>Tue, 17 Mar 2020 22:12:47 +0100</pubDate>
       
       <guid>https://p3n.pensplace.co.uk/categories/classix/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tracks</title>
-      <link>https://p3n.pensplace.co.uk/categories/tracks/</link>
-      <pubDate>Fri, 01 Nov 2019 22:12:47 +0100</pubDate>
-      
-      <guid>https://p3n.pensplace.co.uk/categories/tracks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Progressive House</title>
-      <link>https://p3n.pensplace.co.uk/categories/progressive-house/</link>
-      <pubDate>Fri, 01 Jun 2018 16:12:47 +0100</pubDate>
-      
-      <guid>https://p3n.pensplace.co.uk/categories/progressive-house/</guid>
       <description></description>
     </item>
     

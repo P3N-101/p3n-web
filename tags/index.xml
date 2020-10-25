@@ -5,24 +5,15 @@
     <link>https://p3n.pensplace.co.uk/tags/</link>
     <description>Recent content in Tags on P3N</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 25 Sep 2020 13:01:14 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2020 15:12:47 +0100</lastBuildDate>
     
 	<atom:link href="https://p3n.pensplace.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>electronic dance music</title>
-      <link>https://p3n.pensplace.co.uk/tags/electronic-dance-music/</link>
-      <pubDate>Fri, 25 Sep 2020 13:01:14 +0100</pubDate>
-      
-      <guid>https://p3n.pensplace.co.uk/tags/electronic-dance-music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DarkKnights</title>
       <link>https://p3n.pensplace.co.uk/tags/darkknights/</link>
-      <pubDate>Sun, 06 Sep 2020 16:12:47 +0100</pubDate>
+      <pubDate>Sun, 25 Oct 2020 15:12:47 +0100</pubDate>
       
       <guid>https://p3n.pensplace.co.uk/tags/darkknights/</guid>
       <description></description>
@@ -31,16 +22,25 @@
     <item>
       <title>Melodic House and Techno</title>
       <link>https://p3n.pensplace.co.uk/tags/melodic-house-and-techno/</link>
-      <pubDate>Sun, 06 Sep 2020 16:12:47 +0100</pubDate>
+      <pubDate>Sun, 25 Oct 2020 15:12:47 +0100</pubDate>
       
       <guid>https://p3n.pensplace.co.uk/tags/melodic-house-and-techno/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Progressive House</title>
+      <link>https://p3n.pensplace.co.uk/tags/progressive-house/</link>
+      <pubDate>Sun, 25 Oct 2020 15:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/tags/progressive-house/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bigroom Adventures</title>
       <link>https://p3n.pensplace.co.uk/tags/bigroom-adventures/</link>
-      <pubDate>Tue, 01 Sep 2020 16:12:47 +0100</pubDate>
+      <pubDate>Sun, 25 Oct 2020 14:12:47 +0100</pubDate>
       
       <guid>https://p3n.pensplace.co.uk/tags/bigroom-adventures/</guid>
       <description></description>
@@ -49,9 +49,18 @@
     <item>
       <title>TechHouse</title>
       <link>https://p3n.pensplace.co.uk/tags/techhouse/</link>
-      <pubDate>Tue, 01 Sep 2020 16:12:47 +0100</pubDate>
+      <pubDate>Sun, 25 Oct 2020 14:12:47 +0100</pubDate>
       
       <guid>https://p3n.pensplace.co.uk/tags/techhouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>electronic dance music</title>
+      <link>https://p3n.pensplace.co.uk/tags/electronic-dance-music/</link>
+      <pubDate>Fri, 25 Sep 2020 13:01:14 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/tags/electronic-dance-music/</guid>
       <description></description>
     </item>
     
@@ -101,6 +110,60 @@
     </item>
     
     <item>
+      <title>Dance</title>
+      <link>https://p3n.pensplace.co.uk/tags/dance/</link>
+      <pubDate>Fri, 01 May 2020 22:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/tags/dance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duke Dumont</title>
+      <link>https://p3n.pensplace.co.uk/tags/duke-dumont/</link>
+      <pubDate>Fri, 01 May 2020 22:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/tags/duke-dumont/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elderbrook - Numb</title>
+      <link>https://p3n.pensplace.co.uk/tags/elderbrook-numb/</link>
+      <pubDate>Fri, 01 May 2020 22:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/tags/elderbrook-numb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joris Voorn</title>
+      <link>https://p3n.pensplace.co.uk/tags/joris-voorn/</link>
+      <pubDate>Fri, 01 May 2020 22:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/tags/joris-voorn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Therapy</title>
+      <link>https://p3n.pensplace.co.uk/tags/therapy/</link>
+      <pubDate>Fri, 01 May 2020 22:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/tags/therapy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Top Tracks</title>
+      <link>https://p3n.pensplace.co.uk/tags/top-tracks/</link>
+      <pubDate>Fri, 01 May 2020 22:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/tags/top-tracks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>90s</title>
       <link>https://p3n.pensplace.co.uk/tags/90s/</link>
       <pubDate>Tue, 17 Mar 2020 22:12:47 +0100</pubDate>
@@ -124,15 +187,6 @@
       <pubDate>Fri, 01 Nov 2019 22:12:47 +0100</pubDate>
       
       <guid>https://p3n.pensplace.co.uk/tags/tracks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Progressive House</title>
-      <link>https://p3n.pensplace.co.uk/tags/progressive-house/</link>
-      <pubDate>Fri, 01 Jun 2018 16:12:47 +0100</pubDate>
-      
-      <guid>https://p3n.pensplace.co.uk/tags/progressive-house/</guid>
       <description></description>
     </item>
     
