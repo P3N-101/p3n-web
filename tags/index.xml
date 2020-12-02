@@ -5,10 +5,28 @@
     <link>https://p3n.pensplace.co.uk/tags/</link>
     <description>Recent content in Tags on P3N</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 25 Oct 2020 15:12:47 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 16:12:47 +0100</lastBuildDate>
     
 	<atom:link href="https://p3n.pensplace.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bigroom Adventures</title>
+      <link>https://p3n.pensplace.co.uk/tags/bigroom-adventures/</link>
+      <pubDate>Wed, 02 Dec 2020 16:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/tags/bigroom-adventures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>House</title>
+      <link>https://p3n.pensplace.co.uk/tags/house/</link>
+      <pubDate>Wed, 02 Dec 2020 16:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/tags/house/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DarkKnights</title>
@@ -38,15 +56,6 @@
     </item>
     
     <item>
-      <title>Bigroom Adventures</title>
-      <link>https://p3n.pensplace.co.uk/tags/bigroom-adventures/</link>
-      <pubDate>Sun, 25 Oct 2020 14:12:47 +0100</pubDate>
-      
-      <guid>https://p3n.pensplace.co.uk/tags/bigroom-adventures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>TechHouse</title>
       <link>https://p3n.pensplace.co.uk/tags/techhouse/</link>
       <pubDate>Sun, 25 Oct 2020 14:12:47 +0100</pubDate>
@@ -56,11 +65,20 @@
     </item>
     
     <item>
-      <title>electronic dance music</title>
-      <link>https://p3n.pensplace.co.uk/tags/electronic-dance-music/</link>
-      <pubDate>Fri, 25 Sep 2020 13:01:14 +0100</pubDate>
+      <title>Album Covers</title>
+      <link>https://p3n.pensplace.co.uk/tags/album-covers/</link>
+      <pubDate>Thu, 01 Oct 2020 18:01:26 +0100</pubDate>
       
-      <guid>https://p3n.pensplace.co.uk/tags/electronic-dance-music/</guid>
+      <guid>https://p3n.pensplace.co.uk/tags/album-covers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artwork</title>
+      <link>https://p3n.pensplace.co.uk/tags/artwork/</link>
+      <pubDate>Thu, 01 Oct 2020 18:01:26 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/tags/artwork/</guid>
       <description></description>
     </item>
     
@@ -79,15 +97,6 @@
       <pubDate>Tue, 25 Aug 2020 16:12:47 +0100</pubDate>
       
       <guid>https://p3n.pensplace.co.uk/tags/trance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>House</title>
-      <link>https://p3n.pensplace.co.uk/tags/house/</link>
-      <pubDate>Sat, 04 Jul 2020 16:12:47 +0100</pubDate>
-      
-      <guid>https://p3n.pensplace.co.uk/tags/house/</guid>
       <description></description>
     </item>
     
@@ -196,6 +205,15 @@
       <pubDate>Fri, 01 Jun 2018 16:12:47 +0100</pubDate>
       
       <guid>https://p3n.pensplace.co.uk/tags/techno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>electronic dance music</title>
+      <link>https://p3n.pensplace.co.uk/tags/electronic-dance-music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/tags/electronic-dance-music/</guid>
       <description></description>
     </item>
     

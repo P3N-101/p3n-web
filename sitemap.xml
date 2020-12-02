@@ -4,17 +4,52 @@
   
   <url>
     <loc>https://p3n.pensplace.co.uk/</loc>
-    <lastmod>2020-10-25T15:12:47+01:00</lastmod>
+    <lastmod>2020-12-02T16:12:47+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://p3n.pensplace.co.uk/audio/</loc>
-    <lastmod>2020-10-25T15:12:47+01:00</lastmod>
+    <lastmod>2020-12-02T16:12:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://p3n.pensplace.co.uk/categories/big-room-adventures/</loc>
+    <lastmod>2020-12-02T16:12:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://p3n.pensplace.co.uk/audio/p3n-bigroomadventures-vol-x/</loc>
+    <lastmod>2020-12-02T16:12:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://p3n.pensplace.co.uk/tags/bigroom-adventures/</loc>
+    <lastmod>2020-12-02T16:12:47+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://p3n.pensplace.co.uk/categories/</loc>
-    <lastmod>2020-10-25T15:12:47+01:00</lastmod>
+    <lastmod>2020-12-02T16:12:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://p3n.pensplace.co.uk/tags/house/</loc>
+    <lastmod>2020-12-02T16:12:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://p3n.pensplace.co.uk/categories/house/</loc>
+    <lastmod>2020-12-02T16:12:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://p3n.pensplace.co.uk/categories/music/</loc>
+    <lastmod>2020-12-02T16:12:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://p3n.pensplace.co.uk/tags/</loc>
+    <lastmod>2020-12-02T16:12:47+01:00</lastmod>
   </url>
   
   <url>
@@ -43,11 +78,6 @@
   </url>
   
   <url>
-    <loc>https://p3n.pensplace.co.uk/categories/music/</loc>
-    <lastmod>2020-10-25T15:12:47+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://p3n.pensplace.co.uk/tags/progressive-house/</loc>
     <lastmod>2020-10-25T15:12:47+01:00</lastmod>
   </url>
@@ -58,22 +88,7 @@
   </url>
   
   <url>
-    <loc>https://p3n.pensplace.co.uk/tags/</loc>
-    <lastmod>2020-10-25T15:12:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://p3n.pensplace.co.uk/categories/big-room-adventures/</loc>
-    <lastmod>2020-10-25T14:12:47+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://p3n.pensplace.co.uk/audio/p3n-bigroomadventures-vol-ix/</loc>
-    <lastmod>2020-10-25T14:12:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://p3n.pensplace.co.uk/tags/bigroom-adventures/</loc>
     <lastmod>2020-10-25T14:12:47+01:00</lastmod>
   </url>
   
@@ -88,28 +103,39 @@
   </url>
   
   <url>
-    <loc>https://p3n.pensplace.co.uk/author/</loc>
-    <lastmod>2020-09-25T13:01:14+01:00</lastmod>
+    <loc>https://p3n.pensplace.co.uk/gallery/</loc>
+    <lastmod>2020-10-01T18:01:26+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://p3n.pensplace.co.uk/tags/electronic-dance-music/</loc>
-    <lastmod>2020-09-25T13:01:14+01:00</lastmod>
+    <loc>https://p3n.pensplace.co.uk/tags/album-covers/</loc>
+    <lastmod>2020-10-01T18:01:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://p3n.pensplace.co.uk/gallery/album-covers/</loc>
+    <lastmod>2020-10-01T18:01:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://p3n.pensplace.co.uk/categories/art/</loc>
+    <lastmod>2020-10-01T18:01:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://p3n.pensplace.co.uk/tags/artwork/</loc>
+    <lastmod>2020-10-01T18:01:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://p3n.pensplace.co.uk/author/</loc>
+    <lastmod>2020-10-01T18:01:26+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://p3n.pensplace.co.uk/author/p3n/</loc>
-    <lastmod>2020-09-25T13:01:14+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://p3n.pensplace.co.uk/quote/</loc>
-    <lastmod>2020-09-25T13:01:14+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://p3n.pensplace.co.uk/quote/the-future-of-music-is-in-the-past/</loc>
-    <lastmod>2020-09-25T13:01:14+01:00</lastmod>
+    <lastmod>2020-10-01T18:01:26+01:00</lastmod>
   </url>
   
   <url>
@@ -174,16 +200,6 @@
   
   <url>
     <loc>https://p3n.pensplace.co.uk/audio/p3n-bigroomadventures-vol-viii/</loc>
-    <lastmod>2020-07-04T16:12:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://p3n.pensplace.co.uk/tags/house/</loc>
-    <lastmod>2020-07-04T16:12:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://p3n.pensplace.co.uk/categories/house/</loc>
     <lastmod>2020-07-04T16:12:47+01:00</lastmod>
   </url>
   
@@ -363,11 +379,23 @@
   </url>
   
   <url>
+    <loc>https://p3n.pensplace.co.uk/tags/electronic-dance-music/</loc>
+  </url>
+  
+  <url>
     <loc>https://p3n.pensplace.co.uk/tags/index/</loc>
   </url>
   
   <url>
     <loc>https://p3n.pensplace.co.uk/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://p3n.pensplace.co.uk/quote/</loc>
+  </url>
+  
+  <url>
+    <loc>https://p3n.pensplace.co.uk/quote/the-future-of-music-is-in-the-past/</loc>
   </url>
   
 </urlset>

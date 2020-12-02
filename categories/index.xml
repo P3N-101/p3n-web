@@ -5,10 +5,37 @@
     <link>https://p3n.pensplace.co.uk/categories/</link>
     <description>Recent content in Categories on P3N</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 25 Oct 2020 15:12:47 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 16:12:47 +0100</lastBuildDate>
     
 	<atom:link href="https://p3n.pensplace.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Big Room Adventures</title>
+      <link>https://p3n.pensplace.co.uk/categories/big-room-adventures/</link>
+      <pubDate>Wed, 02 Dec 2020 16:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/categories/big-room-adventures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>House</title>
+      <link>https://p3n.pensplace.co.uk/categories/house/</link>
+      <pubDate>Wed, 02 Dec 2020 16:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/categories/house/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://p3n.pensplace.co.uk/categories/music/</link>
+      <pubDate>Wed, 02 Dec 2020 16:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/categories/music/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DarkKnights</title>
@@ -29,15 +56,6 @@
     </item>
     
     <item>
-      <title>Music</title>
-      <link>https://p3n.pensplace.co.uk/categories/music/</link>
-      <pubDate>Sun, 25 Oct 2020 15:12:47 +0100</pubDate>
-      
-      <guid>https://p3n.pensplace.co.uk/categories/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Progressive House</title>
       <link>https://p3n.pensplace.co.uk/categories/progressive-house/</link>
       <pubDate>Sun, 25 Oct 2020 15:12:47 +0100</pubDate>
@@ -47,20 +65,20 @@
     </item>
     
     <item>
-      <title>Big Room Adventures</title>
-      <link>https://p3n.pensplace.co.uk/categories/big-room-adventures/</link>
-      <pubDate>Sun, 25 Oct 2020 14:12:47 +0100</pubDate>
-      
-      <guid>https://p3n.pensplace.co.uk/categories/big-room-adventures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>TechHouse</title>
       <link>https://p3n.pensplace.co.uk/categories/techhouse/</link>
       <pubDate>Sun, 25 Oct 2020 14:12:47 +0100</pubDate>
       
       <guid>https://p3n.pensplace.co.uk/categories/techhouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>https://p3n.pensplace.co.uk/categories/art/</link>
+      <pubDate>Thu, 01 Oct 2020 18:01:26 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/categories/art/</guid>
       <description></description>
     </item>
     
@@ -79,15 +97,6 @@
       <pubDate>Tue, 25 Aug 2020 16:12:47 +0100</pubDate>
       
       <guid>https://p3n.pensplace.co.uk/categories/trance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>House</title>
-      <link>https://p3n.pensplace.co.uk/categories/house/</link>
-      <pubDate>Sat, 04 Jul 2020 16:12:47 +0100</pubDate>
-      
-      <guid>https://p3n.pensplace.co.uk/categories/house/</guid>
       <description></description>
     </item>
     
